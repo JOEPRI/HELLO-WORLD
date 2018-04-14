@@ -1,4 +1,4 @@
 # HELLO-WORLD
 HELLO
 Hey,
-I love programming java script and adrodid application  
+I love programming java script and andriod application  
